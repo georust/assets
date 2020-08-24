@@ -1,6 +1,6 @@
 # Assets
 
-Static assets used in documentation.
+Static assets used in GeoRust projects.
 
 ## File and folder structure
 
